@@ -1,4 +1,4 @@
-https://ryt666.github.io/rsschool-cv/
+https://ryt666.github.io/clean-code-s1e1/
 
 
 
